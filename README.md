@@ -12,6 +12,8 @@
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
+1. DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana kedua kata tersebut bermakna menggabungkan proses development/pengembangan dari sebuah sistem/aplikasi dengan operation/operasional.
+2. 
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
