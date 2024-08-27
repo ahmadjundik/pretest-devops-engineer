@@ -13,7 +13,13 @@
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
 1. DevOps merupakan singkatan dari dua kata yaitu Development dan Operation. Di mana kedua kata tersebut bermakna menggabungkan proses development/pengembangan dari sebuah sistem/aplikasi dengan operation/operasional.
-2. 
+2. Arsitektur infrastruktur dan aplikasi merujuk pada struktur, komponen, dan desain yang mendasari suatu sistem komputer atau perangkat lunak. Ini mencakup dua aspek penting, yaitu arsitek infrastruktur dan arsitek aplikasi.
+3. Suatu sistem komputer yang mempunyai layanan khusus sebagai penyimpanan data. Contohnya adalah web server, mail server, dan database server.
+4. Dalam deployment, semua hasil coding yang telah dibuat oleh programmer disimpan atau dipindahkan ke dalam satu tempat (server).
+5. Container adalah paket kode perangkat lunak yang berisi kode aplikasi, pustaka aplikasi, dan dependensi lainnya. sedangkan virtualisasi adalah salinan digital dari mesin fisik.
+6. Salah satu keunggulan utama teknologi container adalah portabilitasnya yang tinggi. Container dapat dijalankan di berbagai platform dan lingkungan, mulai dari komputer lokal hingga server Cloud.
+7. Orkestrasi kontainer adalah proses mengotomatiskan jaringan dan pengelolaan kontainer sehingga Anda dapat menerapkan aplikasi dalam skala besar. Kontainerisasi menggabungkan kode aplikasi dengan semua berkas dan pustaka yang dibutuhkan untuk dijalankan pada infrastruktur apa pun.
+   
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
